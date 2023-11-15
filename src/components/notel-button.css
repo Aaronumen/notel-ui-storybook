@@ -1,0 +1,29 @@
+.notel-button {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    border-color: transparent;
+    color: #fff;
+}
+.notel-button--small{
+    padding: 10px 20px;
+}
+.notel-button--large{
+    padding: 16px 32px;
+}
+.notel-button--medium{
+    padding: 12px 30px;
+}
+.notel-button--primary{
+    background-color: #3273dc;
+}
+.notel-button--warning{
+    background-color: #ffdd57;
+}
+.notel-button--danger{
+    background-color: #ff3860;
+}
